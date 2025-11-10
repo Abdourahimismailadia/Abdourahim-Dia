@@ -1,6 +1,6 @@
-title: " Abdourahim Dia Data"
-logo:img/nny.jpg
-description: "portfolio Data scientis santé"
+title: "Abdourahim Dia Data"
+logo: img/nny.jpg
+description: "Portfolio Data Scientist Santé"
 show_downloads: true
-theme: Univers-theme-minimal
+theme: jekyll-theme-minimal
 lang: fr
